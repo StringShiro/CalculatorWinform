@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Desktop\CalculatorWinform\CalculatorWinform\bin\Debug\CalculatorWinform.exe
+C:\Users\ADMIN\Desktop\CalculatorWinform\CalculatorWinform\bin\Debug\CalculatorWinform.exe.config
+C:\Users\ADMIN\Desktop\CalculatorWinform\CalculatorWinform\obj\Debug\CalculatorWinform.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\CalculatorWinform\CalculatorWinform\obj\Debug\CalculatorWinform.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\CalculatorWinform\CalculatorWinform\obj\Debug\CalculatorWinform.CalculatorWinform.resources
+C:\Users\ADMIN\Desktop\CalculatorWinform\CalculatorWinform\obj\Debug\CalculatorWinform.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\CalculatorWinform\CalculatorWinform\obj\Debug\CalculatorWinform.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\CalculatorWinform\CalculatorWinform\obj\Debug\CalculatorWinform.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\CalculatorWinform\CalculatorWinform\obj\Debug\CalculatorWinform.exe
+C:\Users\ADMIN\Desktop\CalculatorWinform\CalculatorWinform\obj\Debug\CalculatorWinform.pdb
+C:\Users\ADMIN\Desktop\CalculatorWinform\CalculatorWinform\bin\Debug\CalculatorWinform.pdb
